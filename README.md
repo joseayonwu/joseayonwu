@@ -42,7 +42,7 @@ I’m currently preparing for a **Winter 2026 Data Analyst Co-op**, aiming to co
 Ontario, Canada  
 Email: joseayonwu@gmail.com  
 LinkedIn: [linkedin.com/in/joseayonwu](https://www.linkedin.com/in/joseayonwu)  
-Portfolio: [joseayonwu.ca](https://joseayonwu.ca)
+Portfolio: [joseayonwu.ca](https://joseayonwu.top)
 
 ---
 
