@@ -5,7 +5,7 @@ After more than ten years leading retail and category management projects in Per
 
 ---
 
-### 💼 What Drives Me
+### What Drives Me
 I believe that data is only valuable when it helps people make better decisions.  
 That mindset guides my projects, where I connect business context with data-driven thinking to improve performance, efficiency, and customer experience.
 
@@ -13,7 +13,7 @@ I’m currently preparing for a **Winter 2026 Data Analyst Co-op**, aiming to co
 
 ---
 
-### ⚙️ Tools & Skills
+### Tools & Skills
 **Programming & Analysis:** Python, SQL, Excel  
 **Data Visualization:** Power BI, Tableau  
 **Statistical & Predictive Methods:** Regression, Forecasting, Clustering, PCA  
@@ -21,7 +21,7 @@ I’m currently preparing for a **Winter 2026 Data Analyst Co-op**, aiming to co
 
 ---
 
-### 📊 Featured Projects
+### Featured Projects
 - **Credit Risk Visualization** – Predicting default risk using clustering and PCA (Python + Power BI).  
 - **Sales Forecasting – AdventureWorks** – Time-series and YoY analysis with interactive dashboards.  
 - **Sleep Tracking Toolkit** – Python package for recording, cleaning, and analyzing sleep data.  
@@ -31,14 +31,14 @@ I’m currently preparing for a **Winter 2026 Data Analyst Co-op**, aiming to co
 
 ---
 
-### 🎓 Education
+### Education
 - **MSc in Data Analytics (Expected July 2026)** – University of Niagara Falls Canada  
 - **MBA** – Pontificia Universidad Católica del Perú  
 - **B.Sc. in Food Science Engineering** – Universidad Nacional Agraria La Molina  
 
 ---
 
-### 📫 Let’s Connect
+### Let’s Connect
 Ontario, Canada  
 📧 [joseayonwu@gmail.com](mailto:joseayonwu@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/joseayonwu) | [Portfolio Website](https://joseayonwu.ca)
