@@ -6,10 +6,9 @@ After more than ten years leading retail and category management projects in Per
 ---
 
 ### What Drives Me
-I believe that data is only valuable when it helps people make better decisions.  
-That mindset guides my projects, where I connect business context with data-driven thinking to improve performance, efficiency, and customer experience.
+I believe data is only valuable when it helps people make better decisions. That mindset drives my projects, where I connect business context with data-driven analysis to improve performance, efficiency, and customer experience.
 
-I’m currently preparing for a **Winter 2026 Data Analyst Co-op**, aiming to contribute both my business background and my growing technical skills.
+I’m currently preparing for a Winter 2026 Data Analyst Co-op, aiming to combine my business acumen with my growing technical expertise in Python, SQL, Excel, Power BI, and Tableau.
 
 ---
 
