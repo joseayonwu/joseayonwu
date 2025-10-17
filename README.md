@@ -1,7 +1,7 @@
 # Jose Antonio Ayon Wu
 
-I’m a bilingual professional (English–Spanish) currently pursuing my **Master’s in Data Analytics** at the **University of Niagara Falls Canada**.  
-After more than ten years leading retail and category management projects in Peru, I decided to focus my career on **data analytics** — learning how to turn information into insight and insight into better business decisions.
+I’m a bilingual professional (English–Spanish) currently pursuing my Master’s in Data Analytics at the University of Niagara Falls Canada.
+With a strong background in retail and category management in Peru, I’m now focused on transforming business data into actionable insights that support smarter decisions.
 
 ---
 
