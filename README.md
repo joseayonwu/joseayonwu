@@ -22,9 +22,7 @@ I’m currently preparing for a Winter 2026 Data Analyst Co-op, aiming to combin
 
 ### Featured Projects
 - **Credit Risk Visualization** – Predicting default risk using clustering and PCA (Python + Power BI).  
-- **Sales Forecasting – AdventureWorks** – Time-series and YoY analysis with interactive dashboards.  
-- **Sleep Tracking Toolkit** – Python package for recording, cleaning, and analyzing sleep data.  
-- **Retail Pareto 80/20 Analysis** – Identified top products contributing 80% of revenue.  
+
 
 *(Full documentation and visuals inside each project repository.)*
 
