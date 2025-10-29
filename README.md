@@ -20,18 +20,15 @@ I’m currently preparing for a Winter 2026 Data Analyst Co-op, aiming to combin
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
 | Project | Tools | Description |
 |----------|--------|-------------|
-| **SQL Retail Database – KJ CORP** | SQL · ER Modeling · Data Normalization | Designed and implemented a relational database for a retail company (KJ CORP) to centralize data from suppliers, inventory, and sales. Built referential integrity with primary and foreign keys, optimized queries for performance, and prepared the structure for Power BI integration. |
-| **Credit Risk Visualization & Predictive Analysis** | Power BI · Python · PCA · Clustering | Developed an interactive Power BI dashboard using Python preprocessing and unsupervised learning (PCA and clustering) to visualize customer credit risk. The project demonstrates data cleaning, transformation, model interpretation, and storytelling through analytics. |
-| **Recipe Review Ratings Prediction** | Python · Pandas · Scikit-learn · Regression | Built a predictive model to estimate user recipe ratings based on text reviews and numerical features. Applied feature engineering, data preprocessing, and regression algorithms to identify the key drivers of satisfaction and model performance. |
+| [**SQL Retail Database – KJ CORP**](https://github.com/joseayonwu/KJCorp_SQL_Project) | SQL · ER Modeling · Data Normalization | Designed and implemented a relational database for a retail company (KJ CORP) to centralize data from suppliers, inventory, and sales. Built referential integrity with primary and foreign keys, optimized queries for performance, and prepared the structure for Power BI integration. |
+| [**Credit Risk Visualization & Predictive Analysis**](https://github.com/joseayonwu/Credit_Risk_Visualization) | Power BI · Python · PCA · Clustering | Developed an interactive Power BI dashboard using Python preprocessing and unsupervised learning (PCA and clustering) to visualize customer credit risk. The project demonstrates data cleaning, transformation, model interpretation, and storytelling through analytics. |
+| [**Recipe Review Ratings Prediction**](https://github.com/joseayonwu/Recipe_Review_Ratings) | Python · Pandas · Scikit-learn · Regression | Built a predictive model to estimate user recipe ratings based on text reviews and numerical features. Applied feature engineering, data preprocessing, and regression algorithms to identify the key drivers of satisfaction and model performance. |
 
-> 📂 *Each project repository includes full documentation, datasets, and visuals.*  
-
-
-*(Full documentation and visuals inside each project repository.)*
+> 📂 *Each project repository includes full documentation, datasets, and visuals.*
 
 ---
 
