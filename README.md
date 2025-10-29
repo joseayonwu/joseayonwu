@@ -20,7 +20,7 @@ I’m currently preparing for a Winter 2026 Data Analyst Co-op, aiming to combin
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Tools | Description |
 |----------|--------|-------------|
@@ -28,7 +28,7 @@ I’m currently preparing for a Winter 2026 Data Analyst Co-op, aiming to combin
 | [**Credit Risk Visualization & Predictive Analysis**](https://github.com/joseayonwu/Credit_Risk_Visualization) | Power BI · Python · PCA · Clustering | Developed an interactive Power BI dashboard using Python preprocessing and unsupervised learning (PCA and clustering) to visualize customer credit risk. The project demonstrates data cleaning, transformation, model interpretation, and storytelling through analytics. |
 | [**Recipe Review Ratings Prediction**](https://github.com/joseayonwu/Recipe_Review_Ratings) | Python · Pandas · Scikit-learn · Regression | Built a predictive model to estimate user recipe ratings based on text reviews and numerical features. Applied feature engineering, data preprocessing, and regression algorithms to identify the key drivers of satisfaction and model performance. |
 
-> 📂 *Each project repository includes full documentation, datasets, and visuals.*
+> *Each project repository includes full documentation, datasets, and visuals.*
 
 ---
 
