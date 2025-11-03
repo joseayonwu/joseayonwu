@@ -1,17 +1,17 @@
-# José Antonio Ayón Wu  
+# Jose Antonio Ayon Wu  
 
 **Bilingual Data Analyst (English–Spanish)** | Master’s in Data Analytics Candidate — *University of Niagara Falls, Canada (2025–2026)*  
 
 ---
 
-## 👋 About Me  
+## About Me  
 
 I’m a bilingual professional (English–Spanish) currently pursuing my **Master’s in Data Analytics** at the **University of Niagara Falls Canada**.  
 With a strong foundation in **retail operations and category management** in Peru, I’m now focused on **transforming data into actionable insights** that support smarter business decisions.  
 
 ---
 
-## 💡 What Drives Me  
+## What Drives Me  
 
 I believe data only becomes valuable when it helps people make better decisions.  
 That philosophy drives my projects — connecting **business context with analytics** to improve **performance, efficiency, and customer experience**.  
@@ -20,7 +20,7 @@ I’m currently preparing for a **Winter 2026 Data Analyst Co-op**, aiming to co
 
 ---
 
-## 🧰 Tools & Skills  
+## Tools & Skills  
 
 **Programming & Analysis:** Python · SQL · Excel  
 **Data Visualization:** Power BI · Tableau  
@@ -30,7 +30,7 @@ I’m currently preparing for a **Winter 2026 Data Analyst Co-op**, aiming to co
 
 ---
 
-## 📊 Featured Projects  
+## Featured Projects  
 
 | Project | Tools | Description |
 |----------|--------|-------------|
@@ -43,7 +43,7 @@ I’m currently preparing for a **Winter 2026 Data Analyst Co-op**, aiming to co
 
 ---
 
-## 🎓 Education  
+## Education  
 
 - **Master of Science in Data Analytics** *(Expected July 2026)* — University of Niagara Falls Canada  
 - **MBA** — Pontificia Universidad Católica del Perú  
@@ -51,13 +51,13 @@ I’m currently preparing for a **Winter 2026 Data Analyst Co-op**, aiming to co
 
 ---
 
-## 🌐 Let’s Connect  
+## Let’s Connect  
 
-📍 Ontario, Canada  
-📧 [joseayonwu@gmail.com](mailto:joseayonwu@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/joseayonwu)  
-💼 [Portfolio Website](https://joseayonwu.top)  
-🐙 [GitHub Profile](https://github.com/joseayonwu)  
+Ontario, Canada  
+[joseayonwu@gmail.com](mailto:joseayonwu@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/joseayonwu)  
+[Portfolio Website](https://joseayonwu.top)  
+[GitHub Profile](https://github.com/joseayonwu)  
 
 ---
 
