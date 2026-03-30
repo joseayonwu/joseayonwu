@@ -1,49 +1,59 @@
-# Jose Antonio Ayon Wu  
+# Jose Antonio Ayon Wu
 
-**Bilingual Data Analyst (English–Spanish)** | Master’s in Data Analytics Candidate — *University of Niagara Falls, Canada (2025–2026)*  
-
----
-
-## About Me  
-
-I’m a bilingual professional (English–Spanish) currently pursuing my **Master’s in Data Analytics** at the **University of Niagara Falls Canada**.  
-With a strong foundation in **retail operations and category management** in Peru, I’m now focused on **transforming data into actionable insights** that support smarter business decisions.  
+**Bilingual Data Analytics Graduate Student (English–Spanish)** | Python · SQL · Excel · Power BI · Tableau · Streamlit
 
 ---
 
-## What Drives Me  
+## About Me
 
-I believe data only becomes valuable when it helps people make better decisions.  
-That philosophy drives my projects — connecting **business context with analytics** to improve **performance, efficiency, and customer experience**.  
+I am a bilingual professional (English–Spanish) currently pursuing a **Master of Science in Data Analytics** at the **University of Niagara Falls Canada**.
 
-I’m currently preparing for a **Winter 2026 Data Analyst Co-op**, aiming to combine my **business acumen** with technical expertise in **Python, SQL, Power BI, and Tableau** to deliver impactful, data-informed solutions.  
+My background in **retail operations, category management, and business strategy** has shaped how I approach analytics: not just as a technical exercise, but as a way to solve real business problems, improve decision-making, and create measurable value.
+
+Today, I am focused on building practical analytics projects that combine **data cleaning, transformation, visualization, modeling, and decision-support workflows** using tools such as **Python, SQL, Excel, Power BI, Tableau, and Streamlit**.
 
 ---
 
-## Tools & Skills  
+## What I Focus On
+
+I am especially interested in projects that involve:
+
+- **Data cleaning and normalization**
+- **Exploratory data analysis and business insight generation**
+- **Dashboard design and data storytelling**
+- **SQL-based data modeling and analytics workflows**
+- **Predictive analytics and machine learning**
+- **Decision-support tools built from complex real-world data**
+
+My goal is to turn messy, fragmented, or underused data into structured analysis that helps people make better decisions.
+
+---
+
+## Tools & Skills
 
 **Programming & Analysis:** Python · SQL · Excel  
-**Data Visualization:** Power BI · Tableau  
+**Data Visualization:** Power BI · Tableau · Streamlit  
 **Machine Learning & Statistics:** Regression · Forecasting · Clustering · PCA  
-**Database Design:** ER Modeling · Normalization (3NF) · ETL · Query Optimization  
-**Soft Skills:** Communication · Strategic Thinking · Leadership · Curiosity · Teamwork  
+**Data Modeling & Databases:** ER Modeling · Normalization (3NF) · ETL · Query Optimization  
+**Business Strengths:** Retail Analytics · Category Thinking · Problem Solving · Communication · Strategic Thinking
 
 ---
 
-## Featured Projects  
+## Featured Projects
 
 | Project | Tools | Description |
-|----------|--------|-------------|
-| [**SQL Retail Database – KJ CORP**](https://github.com/joseayonwu/KJCorp_SQL_Database_Project) | SQL · ER Modeling · Data Normalization | Designed and implemented a relational database for a Peruvian retail company (KJ CORP) to centralize data from suppliers, inventory, and sales. Ensured referential integrity with primary and foreign keys, optimized analytical queries, and built an ETL-ready schema for Power BI integration. |
-| [**Credit Risk Analysis — Power BI & Python Integration**](https://github.com/joseayonwu/credit-risk-analysis-powerbi) | Power BI · Python · DAX · PCA · Clustering | Developed an interactive Power BI dashboard integrating Python for machine learning (PCA and K-Means). The model identified behavioral risk segments, improved decision-making in credit management, and demonstrated advanced data modeling and storytelling with analytics. |
-| [**Hospital Quality Intelligence Dashboard**](https://github.com/joseayonwu/tableau-hospital-quality-dashboard) | Tableau · Tableau Prep · Data Blending · LOD Expressions | Created a Tableau dashboard analyzing hospital quality metrics across the U.S. Applied data blending, LOD expressions, and parameter-driven sensitivity analysis to uncover how ownership, staffing, and geography affect healthcare outcomes. |
-| [**Recipe Review Ratings Prediction**](https://github.com/joseayonwu/recipe-reviews-rating-prediction) | Python · Pandas · Scikit-learn · EDA · Regression | Built a predictive model to estimate user recipe ratings from textual and numeric data. Conducted EDA, feature engineering, and regression modeling to identify key factors driving satisfaction and review patterns. |
+|--------|--------|-------------|
+| [**Clinical Wound Decision Support Demo**](https://github.com/joseayonwu/clinical-wound-decision-support-demo) | Python · Streamlit · Data Cleaning · Normalization · Rules Engine | Built a portfolio-ready decision-support application that transforms complex Excel-based clinical protocol data into validated runtime tables and deterministic recommendations. Showcases structured data cleaning, normalization, validation, and rule-based logic through an interactive Streamlit interface. |
+| [**Credit Risk Analysis — Power BI & Python Integration**](https://github.com/joseayonwu/credit-risk-analysis-powerbi) | Power BI · Python · DAX · PCA · Clustering | Developed an interactive Power BI dashboard integrating Python-based machine learning techniques to identify behavioral risk segments and support credit risk analysis through advanced modeling and storytelling. |
+| [**SQL Retail Database – KJ CORP**](https://github.com/joseayonwu/KJCorp_SQL_Database_Project) | SQL · ER Modeling · Data Normalization | Designed and implemented a relational database for a retail business case, centralizing suppliers, products, inventory, customers, and sales into an analytics-ready schema with strong referential integrity and BI integration potential. |
+| [**Recipe Review Ratings Prediction**](https://github.com/joseayonwu/recipe-reviews-rating-prediction) | Python · Pandas · Scikit-learn · EDA · Regression | Built a predictive analytics workflow to estimate recipe ratings from textual and numeric data, including exploratory analysis, feature engineering, regression modeling, and interpretation of the factors driving user satisfaction. |
+| [**Hospital Quality Intelligence Dashboard**](https://github.com/joseayonwu/tableau-hospital-quality-dashboard) | Tableau · Tableau Prep · Data Blending · LOD Expressions | Created a Tableau dashboard analyzing U.S. hospital quality metrics, applying blending, LOD expressions, and interactive analysis to uncover how staffing, ownership, and geography influence healthcare performance. |
 
-> Each repository includes full documentation, datasets, and visualizations demonstrating real-world analytical workflows.
+> These repositories reflect my work across data cleaning, transformation, analytics, visualization, database design, and applied decision-support systems.
 
 ---
 
-## Education  
+## Education
 
 - **Master of Science in Data Analytics** *(Expected July 2026)* — University of Niagara Falls Canada  
 - **MBA** — Pontificia Universidad Católica del Perú  
@@ -51,15 +61,15 @@ I’m currently preparing for a **Winter 2026 Data Analyst Co-op**, aiming to co
 
 ---
 
-## Let’s Connect  
+## Let’s Connect
 
 Ontario, Canada  
 [joseayonwu@gmail.com](mailto:joseayonwu@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/joseayonwu)  
 [Portfolio Website](https://joseayonwu.top)  
-[GitHub Profile](https://github.com/joseayonwu)  
+[GitHub Profile](https://github.com/joseayonwu)
 
 ---
 
-> *“Data becomes powerful when it tells a story — my goal is to make that story meaningful.”*  
-© 2025 **José Antonio Ayón Wu** | *Data Analytics Portfolio*
+> *“Data becomes powerful when it improves understanding, supports decisions, and drives action.”*  
+© 2026 **Jose Antonio Ayon Wu** | *Data Analytics Portfolio*
